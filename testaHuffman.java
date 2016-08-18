@@ -6,7 +6,7 @@ package huffman;
 
 /**
  *
- * @author luba
+ * @author Yuri Serrano
  */
 public class testaHuffman {
 

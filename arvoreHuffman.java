@@ -6,7 +6,7 @@ package huffman;
 
 /**
  *
- * @author fabio.aglubacheski
+ * @author Yuri serrano
  */
 public class arvoreHuffman {
     private No raiz;
